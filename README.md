@@ -32,6 +32,8 @@ For quick testing, you can use the following credentials:
 
 Events already added and edited on these calendar dates: 7th, 8th, 9th - August 2025. You can add yours on any date.
 
+Or you can create your own account.
+
 ---
 
 ## Screenshots
