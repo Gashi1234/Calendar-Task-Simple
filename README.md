@@ -25,6 +25,8 @@ For quick testing, you can use the following credentials:
 - **Email Address:** `user2@example.com`  
 - **Password:** `123456`
 
+Events already added and edited on these calendar dates: 7th, 8th, 9th - August 2025.
+
 ---
 
 ## Screenshots
