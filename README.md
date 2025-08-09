@@ -35,8 +35,7 @@ See `docs/screenshots/` for all screenshots.
 
 ## Tests & Coverage
 
-Test coverage report is included in the `coverage/` folder.  
-Open `coverage/lcov-report/index.html` in a browser to view detailed results.
+Test coverage report is included in the `coverage/` folder.
 
 Current coverage: **>5%**.
 
