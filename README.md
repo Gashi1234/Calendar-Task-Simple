@@ -1,6 +1,6 @@
 # Calendar Task – Simple Design
 
-A job application project built with **Expo (React Native)** and **Firebase**.  
+Project built with **Expo (React Native)** and **Firebase**.  
 This version uses a **simple UI design** but meets all functionality requirements.
 
 ---
