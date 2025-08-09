@@ -18,36 +18,12 @@ This version uses a **simple UI design** but meets all functionality requirement
 
 ---
 
-## Firebase Setup
+## Test Account
 
-This repo includes `firebase.js` with client-side config for quick review.  
-Security is enforced via Firebase Auth + Realtime Database rules.
+For quick testing, you can use the following credentials:
 
-- **Auth**: Email/Password enabled
-- **Database**: Realtime Database
-
----
-
-## Requirements Coverage
-
-- **Expo + JavaScript**
-- Authorization (Sign up / Sign in)
-- **Biometric sign-in** when previously logged in
-- **Routing (Navigation)** (stack + bottom tabs), header + navbar
-- **Custom calendar UI** (no third-party calendar library)
-- Screen transition animations
-- Safe display on devices with **notches**
-
----
-
-## Features
-
-- **Auth**: Sign up & Sign in with validation
-- **Biometrics**: Face ID / Touch ID prompt if previously logged in
-- **Calendar**: Month/Day switch, select a day to view its events (custom UI)
-- **Events**: Create/Edit events (user-specific, stored in Firebase)
-- **UI/Navigation**: Stack + Tabs, smooth default transitions
-- **Notch Safe**: Layout avoids status bar/notch area
+- **Email Address:** `user2@example.com`  
+- **Password:** `123456`
 
 ---
 
@@ -68,5 +44,4 @@ Current coverage: **>5%**.
 
 ## Notes
 
-- No third-party calendar library used.
 - Built and tested entirely in **Expo Go**.
